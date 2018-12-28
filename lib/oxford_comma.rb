@@ -1,6 +1,5 @@
 def oxford_comma(array)
   last_word = ""
-  complete_phrase = ""
   if array.length == 1
     array[0]
   elsif array.length == 2
